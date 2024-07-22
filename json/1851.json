@@ -1,0 +1,62 @@
+{
+  "description": "This is a token with BCHTV as Decals",
+  "image": "https://raw.githubusercontent.com/rushdapp/jeepney-meta/main/img/d888915ffbe164c83f570850581ab4b3cdcccbdb.png",
+  "name": "Jeepney Rush NFT #1851",
+  "dna": "d888915ffbe164c83f570850581ab4b3cdcccbdb",
+  "uid": "1851",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mountain Side"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Bumper",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Chasis",
+      "value": "Cauldron"
+    },
+    {
+      "trait_type": "Decal",
+      "value": "BCHTV"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "NoFlags"
+    },
+    {
+      "trait_type": "FrontAccessories",
+      "value": "Antenna Big"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mags",
+      "value": "Chryler Aspen"
+    },
+    {
+      "trait_type": "Roof",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Tires",
+      "value": "Jeepney Tires"
+    },
+    {
+      "trait_type": "Underhood",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Windshield",
+      "value": "Red"
+    }
+  ]
+}

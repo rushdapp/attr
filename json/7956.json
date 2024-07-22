@@ -1,0 +1,62 @@
+{
+  "description": "This is a token with Cashtokens as Decals",
+  "image": "https://raw.githubusercontent.com/rushdapp/jeepney-meta/main/img/275515fef24ebcc79034af2bbc6966f766e3cbf7.png",
+  "name": "Jeepney Rush NFT #7956",
+  "dna": "275515fef24ebcc79034af2bbc6966f766e3cbf7",
+  "uid": "7956",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Country Side"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Bumper",
+      "value": "Hot"
+    },
+    {
+      "trait_type": "Chasis",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Decal",
+      "value": "Cashtokens"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "NoFlags"
+    },
+    {
+      "trait_type": "FrontAccessories",
+      "value": "Antenna"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mags",
+      "value": "Chryler Aspen"
+    },
+    {
+      "trait_type": "Roof",
+      "value": "Checkered"
+    },
+    {
+      "trait_type": "Tires",
+      "value": "Flaming Stock Back"
+    },
+    {
+      "trait_type": "Underhood",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Windshield",
+      "value": "Yellow"
+    }
+  ]
+}

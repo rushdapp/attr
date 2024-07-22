@@ -1,0 +1,62 @@
+{
+  "description": "This is a token with BitcoinCash as Decals",
+  "image": "https://raw.githubusercontent.com/rushdapp/jeepney-meta/main/img/167f308c694668fd617aaf43bf29f53c1539d06c.png",
+  "name": "Jeepney Rush NFT #3389",
+  "dna": "167f308c694668fd617aaf43bf29f53c1539d06c",
+  "uid": "3389",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Sunset"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Bumper",
+      "value": "Midnight"
+    },
+    {
+      "trait_type": "Chasis",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Decal",
+      "value": "BitcoinCash"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "NoFlags"
+    },
+    {
+      "trait_type": "FrontAccessories",
+      "value": "Antenna Big"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mags",
+      "value": "Alloy Wheel"
+    },
+    {
+      "trait_type": "Roof",
+      "value": "Checkered"
+    },
+    {
+      "trait_type": "Tires",
+      "value": "Stock Tires"
+    },
+    {
+      "trait_type": "Underhood",
+      "value": "Underhood"
+    },
+    {
+      "trait_type": "Windshield",
+      "value": "Yellow"
+    }
+  ]
+}

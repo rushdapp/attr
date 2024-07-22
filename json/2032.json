@@ -1,0 +1,62 @@
+{
+  "description": "This is a token with Zapit as Decals",
+  "image": "https://raw.githubusercontent.com/rushdapp/jeepney-meta/main/img/a3ad05f2c399c76a79b07860b1ccdc78dec377d5.png",
+  "name": "Jeepney Rush NFT #2032",
+  "dna": "a3ad05f2c399c76a79b07860b1ccdc78dec377d5",
+  "uid": "2032",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bus Stop"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Bumper",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Chasis",
+      "value": "Green"
+    },
+    {
+      "trait_type": "Decal",
+      "value": "Zapit"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "NoFlags"
+    },
+    {
+      "trait_type": "FrontAccessories",
+      "value": "Horse"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Flame"
+    },
+    {
+      "trait_type": "Mags",
+      "value": "Mags"
+    },
+    {
+      "trait_type": "Roof",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Tires",
+      "value": "Flaming Stock Front"
+    },
+    {
+      "trait_type": "Underhood",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Windshield",
+      "value": "Yellow"
+    }
+  ]
+}

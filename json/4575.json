@@ -1,0 +1,62 @@
+{
+  "description": "This is a token with Furu as Decals",
+  "image": "https://raw.githubusercontent.com/rushdapp/jeepney-meta/main/img/a816bc8af7c83ee21bad020943587e0fec7933b5.png",
+  "name": "Jeepney Rush NFT #4575",
+  "dna": "a816bc8af7c83ee21bad020943587e0fec7933b5",
+  "uid": "4575",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Country Side"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Bumper",
+      "value": "Bumper"
+    },
+    {
+      "trait_type": "Chasis",
+      "value": "Rainbow"
+    },
+    {
+      "trait_type": "Decal",
+      "value": "Furu"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "NoFlags"
+    },
+    {
+      "trait_type": "FrontAccessories",
+      "value": "Horse"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Mags",
+      "value": "Concave"
+    },
+    {
+      "trait_type": "Roof",
+      "value": "Checkered"
+    },
+    {
+      "trait_type": "Tires",
+      "value": "Flat Tire Front"
+    },
+    {
+      "trait_type": "Underhood",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Windshield",
+      "value": "Yellow"
+    }
+  ]
+}

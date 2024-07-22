@@ -1,0 +1,62 @@
+{
+  "description": "This is a token with Sock as Decals",
+  "image": "https://raw.githubusercontent.com/rushdapp/jeepney-meta/main/img/45003659286fd14a9b4ae5ec189f4fe63d26316a.png",
+  "name": "Jeepney Rush NFT #7938",
+  "dna": "45003659286fd14a9b4ae5ec189f4fe63d26316a",
+  "uid": "7938",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Park"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Bumper",
+      "value": "Circuit"
+    },
+    {
+      "trait_type": "Chasis",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Decal",
+      "value": "Sock"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "NoFlags"
+    },
+    {
+      "trait_type": "FrontAccessories",
+      "value": "Antenna Big"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Mags",
+      "value": "Concave"
+    },
+    {
+      "trait_type": "Roof",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Tires",
+      "value": "Flat Tire Back"
+    },
+    {
+      "trait_type": "Underhood",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Windshield",
+      "value": "Yellow"
+    }
+  ]
+}

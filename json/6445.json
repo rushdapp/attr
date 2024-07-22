@@ -1,0 +1,62 @@
+{
+  "description": "This is a token with MartinB as Decals",
+  "image": "https://raw.githubusercontent.com/rushdapp/jeepney-meta/main/img/e85b1cfa4d6aed3a8c2489e70ff369ddeab9e9cc.png",
+  "name": "Jeepney Rush NFT #6445",
+  "dna": "e85b1cfa4d6aed3a8c2489e70ff369ddeab9e9cc",
+  "uid": "6445",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Dawn"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Bumper",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Chasis",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Decal",
+      "value": "MartinB"
+    },
+    {
+      "trait_type": "Flags",
+      "value": "NoFlags"
+    },
+    {
+      "trait_type": "FrontAccessories",
+      "value": "Horse"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Hodl"
+    },
+    {
+      "trait_type": "Mags",
+      "value": "Pin on Ridin"
+    },
+    {
+      "trait_type": "Roof",
+      "value": "Checkered"
+    },
+    {
+      "trait_type": "Tires",
+      "value": "2101719"
+    },
+    {
+      "trait_type": "Underhood",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Windshield",
+      "value": "Tint"
+    }
+  ]
+}

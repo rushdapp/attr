@@ -1,0 +1,50 @@
+{
+  "description": "This is a token with Dogecash as Decals",
+  "image": "https://raw.githubusercontent.com/rushdapp/jeepney-meta/main/img/66b7daabdeadafecf38f618ba65bb404d1765005.png",
+  "name": "Jeepney Rush NFT #223",
+  "dna": "66b7daabdeadafecf38f618ba65bb404d1765005",
+  "uid": "223",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Mayon Volcano"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Bumper",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Chasis",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Decal",
+      "value": "Dogecash"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Mags",
+      "value": "Mafioso"
+    },
+    {
+      "trait_type": "Roof",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Tires",
+      "value": "Flaming Stock Back"
+    },
+    {
+      "trait_type": "Windshield",
+      "value": "Green"
+    }
+  ]
+}

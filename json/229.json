@@ -1,0 +1,50 @@
+{
+  "description": "This is a token with Zapit as Decals",
+  "image": "https://raw.githubusercontent.com/rushdapp/jeepney-meta/main/img/47eb1f1acfa77587774c465b8af8c7d0e54cd36c.png",
+  "name": "Jeepney Rush NFT #229",
+  "dna": "47eb1f1acfa77587774c465b8af8c7d0e54cd36c",
+  "uid": "229",
+  "generator": "HashLips Lab AE 2.0",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Country Side"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Body"
+    },
+    {
+      "trait_type": "Bumper",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Chasis",
+      "value": "Lightning"
+    },
+    {
+      "trait_type": "Decal",
+      "value": "Zapit"
+    },
+    {
+      "trait_type": "Hood",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Mags",
+      "value": "Concave"
+    },
+    {
+      "trait_type": "Roof",
+      "value": "Yellow"
+    },
+    {
+      "trait_type": "Tires",
+      "value": "Flat Tire Back"
+    },
+    {
+      "trait_type": "Windshield",
+      "value": "Green"
+    }
+  ]
+}
